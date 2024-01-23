@@ -8,7 +8,7 @@ categories:
 tags:
   - graph neural networks
   - math
-  - deep learnings
+  - deep learning
 math: true
 ---
 
